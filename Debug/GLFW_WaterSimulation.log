@@ -1,0 +1,6 @@
+﻿  water_gerstner.cpp
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'D:\Code\C++\GLFW_WaterSimulation\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'D:\Code\C++\GLFW_WaterSimulation\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'D:\Code\C++\GLFW_WaterSimulation\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'D:\Code\C++\GLFW_WaterSimulation\Debug\SOIL.pdb'; linking object as if no debug info
+  GLFW_WaterSimulation.vcxproj -> D:\Code\C++\GLFW_WaterSimulation\Debug\GLFW_WaterSimulation.exe
